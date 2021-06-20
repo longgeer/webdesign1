@@ -1,4 +1,4 @@
-# 1-column template for Bootstrap 5
+# Carousel full cover template for Bootstrap 5
 
 
 These templates were built with a **free Material Design UI Kit for the latest Bootstrap 5**.
@@ -15,8 +15,8 @@ ___
   <tbody>
     <tr>
       <td>
-          <a href="https://mdbootstrap.com/freebies/one-column/" alt="Bootstrap 5" rel="dofollow">
-          		<img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/freebies/one-column/assets/featured.jpg">
+          <a href="https://mdbootstrap.com/freebies/carousel-full-cover/" alt="Bootstrap 5" rel="dofollow">
+          		<img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/freebies/carousel-full-cover/assets/featured.jpg">
           </a>
       </td>
       <td>
@@ -26,7 +26,7 @@ ___
          <li><b>Plain javascript (but works also with jQuery)</b></li>
          <li>Use in your design and create amazing things</li>
          <li><b>MIT license - free for personal & commercial use</b></li>
-          <li><b><a href="https://mdbootstrap.com/snippets/standard/mdbootstrap/2515547">Live Demo</a></b></li>
+          <li><b><a href="https://mdbootstrap.com/snippets/standard/mdbootstrap/2515519">Live Demo</a></b></li>
         </ul>
       </td>
     </tr>
